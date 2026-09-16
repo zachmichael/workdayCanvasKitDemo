@@ -1,0 +1,19 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background-color: var(--cnvs-sys-color-bg-alt-softer, #f7f7f7);
+  color: var(--cnvs-sys-color-text-default);
+  font-family: var(--cnvs-sys-font-family-default);
+  -webkit-font-smoothing: antialiased;
+}
