@@ -15,7 +15,8 @@ import {App} from './App';
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
     <CanvasProvider>
-      <BrowserRouter>
+      {/* BASE_URL is '/' in dev and '/workdayCanvasKitDemo/' in the Pages build. */}
+      <BrowserRouter basename={import.meta.env.BASE_URL}>
         <App />
       </BrowserRouter>
     </CanvasProvider>
