@@ -4,6 +4,12 @@ State of this project as of **2026-10-18**, written so a future session can pick
 clone. See [CLAUDE.md](CLAUDE.md) for how to work in the code, [README.md](README.md) for what the
 site is.
 
+## Status update — 2026-10-19
+
+The repository is now **public**. The deployment workflow still runs only when manually dispatched;
+public visibility alone does not establish whether the Pages site is currently live. The
+2026-10-18 account below records the earlier private-repository state and local verification.
+
 ## Where things stand
 
 The showcase is **complete and working**. Nothing is half-finished or left broken.
