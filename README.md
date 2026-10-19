@@ -4,6 +4,13 @@ A component showcase for [Workday Canvas Kit](https://workday.github.io/canvas-k
 with Vite + React 18 + TypeScript. Six pages of live, interactive examples, each paired with the
 source that produced it.
 
+> **Status:** complete and working. The repo is private, so the GitHub Pages site is not currently
+> published — Pages requires a public repo on the Free plan. The deployment config is committed and
+> re-publishing takes about two minutes. See [HANDOFF.md](HANDOFF.md).
+
+Picking this up in a new session? Start with [HANDOFF.md](HANDOFF.md) for project state and
+[CLAUDE.md](CLAUDE.md) for working conventions.
+
 ## Running it
 
 ```bash

@@ -1,8 +1,12 @@
 name: Deploy to GitHub Pages
 
+# The repo is private on a Free plan, where Pages is unavailable, so
+# actions/configure-pages fails. Running on push would fail on every commit and
+# burn Actions minutes. Re-enable the push trigger below once the repo is public
+# again and Pages is set to "GitHub Actions" — see HANDOFF.md.
 on:
-  push:
-    branches: [main]
+  # push:
+  #   branches: [main]
   workflow_dispatch:
 
 permissions:
