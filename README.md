@@ -4,9 +4,7 @@ A component showcase for [Workday Canvas Kit](https://workday.github.io/canvas-k
 with Vite + React 18 + TypeScript. Six pages of live, interactive examples, each paired with the
 source that produced it.
 
-> **Status:** the component showcase was built and verified locally. This repository is public.
-> The Pages workflow is currently manual (`workflow_dispatch`), so this README does not assume
-> the hosted site is live. See [HANDOFF.md](HANDOFF.md) for the original verification and deployment notes.
+> **Status:** the repository is public and the [hosted showcase](https://zachmichael.github.io/workdayCanvasKitDemo/) was verified live on 2026-10-19. The Pages workflow remains manual (`workflow_dispatch`), so later commits are not automatically deployed. See [HANDOFF.md](HANDOFF.md) for deployment history and notes.
 
 Picking this up in a new session? Start with [HANDOFF.md](HANDOFF.md) for project state and
 [CLAUDE.md](CLAUDE.md) for working conventions.
