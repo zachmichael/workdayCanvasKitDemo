@@ -6,9 +6,7 @@ site is.
 
 ## Status update — 2026-10-19
 
-The repository is now **public**. The deployment workflow still runs only when manually dispatched;
-public visibility alone does not establish whether the Pages site is currently live. The
-2026-10-18 account below records the earlier private-repository state and local verification.
+The repository is now **public**. The [Pages site](https://zachmichael.github.io/workdayCanvasKitDemo/) was verified live on 2026-10-19, including a direct reload of `/tokens`. The deployment workflow still runs only when manually dispatched; the last successful deployment was on 2026-09-16. Four later commits changed documentation and workflow comments, not app source. The 2026-10-18 account below records the earlier private-repository state and local verification.
 
 ## Where things stand
 
